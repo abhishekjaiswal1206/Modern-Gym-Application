@@ -2,4 +2,4 @@
 
 ![React Fitness Application](https://ibb.co/zbvhvNG)
 
-## Production Link - https://github.com/abhishekjaiswal1206/Modern-gym-application
+## Production Link - https://jaiswal-fitness-gym.netlify.app/
